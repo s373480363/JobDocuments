@@ -1,0 +1,15 @@
+这是我之前写的一篇有关RabbitMQ高可用性和灾难恢复的文章，由于之前只是发布在公司内网并没有在外部发布，所以我直接将整个网页下载下来查看。
+
+这篇文章主要介绍了
+1.如何创建多个RabbitMQ用于测试
+2.测试了一些RabbitMQ在面临异常时可能出现的问题
+3.在RabbitMQ集群中配置镜像队列
+4.测试镜像队列不同同步方式的区别
+5.配置和测试RabbitMQ TTL
+6.RabbitMQ的备份和恢复
+7.RabbitMQ Shovel插件动态，静态方式的配置和测试
+8.RabbitMQ Federation 插件的配置和测试
+9.RabbitMQ TLS 的配置和测试
+10.RabbitMQ 的健康检查
+11.RabbitMQ 的防火墙规则
+12.RabbitMQ 的可用环境变量
